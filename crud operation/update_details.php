@@ -1,6 +1,5 @@
 <?php
 require "config.php";
-require "update.php";
 
 $id = $_REQUEST['id'];
 $name = $_REQUEST['name'];
